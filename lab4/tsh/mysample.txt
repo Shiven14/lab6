@@ -1,0 +1,1 @@
+This is a sample file for lab 4. You can display its output by running (cat mysample.txt)
